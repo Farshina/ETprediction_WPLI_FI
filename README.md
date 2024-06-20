@@ -16,6 +16,8 @@ The interpolated ET maps are visualized and stored in cell arrays for further an
 1. MATLAB (version R2019a or later recommended)
 2. MATLAB Image Processing Toolbox (for handling image data)
 3. MATLAB Statistics and Machine Learning Toolbox (for statistical calculations)
+
+
 **Files**
 The project consists of the following files:
 
