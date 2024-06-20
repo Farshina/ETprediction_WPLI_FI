@@ -31,12 +31,9 @@ The project consists of the following files:
 4. generate_dataset.m: Function to generate synthetic ET data based on provided flight schedules and parameters.
 
 **Usage**
-1. Clone the Repository:
-
+1. Clone the Repository.
 2. Open MATLAB and navigate to the project directory.
-
 3. Run the Main Script:
-
 Open main_ET_interpolation_WPLI_FI.m in MATLAB and execute the script. This will:
 
 i. Generate synthetic ET data.
@@ -44,7 +41,6 @@ ii. Perform WPLI and FI interpolations between consecutive flight dates.
 iii. Display or save the interpolated ET maps.
 
 4. Explore Results:
-
 The interpolated ET maps (ETmaps_interpolated_WPLI and ETmaps_interpolated_FI) are stored as cell arrays and can be further analyzed or visualized as per your requirements.
 
 **License**
