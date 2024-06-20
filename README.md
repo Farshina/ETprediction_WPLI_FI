@@ -2,7 +2,7 @@
 
 **Evapotranspiration Interpolation**
 This MATLAB project demonstrates the use of weighted piecewise linear interpolation (WPLI) and forward interpolation (FI) techniques to fill gaps in evapotranspiration (ET) data obtained from aerial imagery flights. Abstract and Presentation link: https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/143951 
-A written description of the methods in "WPLI FI.docx"
+A written description of the methods in "WPLI FI theory.docx"
 
 **Overview**
 The project includes MATLAB scripts and functions to:
